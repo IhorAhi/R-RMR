@@ -4,7 +4,7 @@ Files
 
 rmr.R - contains code for compairing RMR and LSM for regressiong
 
-Курсова_робота_Оцінка_методу_повторних_медіан_для_коефіцієнтів_регресії_Агієнко.docx - is my course work file, describing everything I did in the project
+Курсова_робота_Оцінка_методу_повторних_медіан_для_коефіцієнтів_регресії.docx - is my course work file, describing everything I did in the project
 
 Description of the project
 
